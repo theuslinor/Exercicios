@@ -1,0 +1,2 @@
+temp = float(input('Qual é a temperatura em graus celsius? '))
+print('A temperatura em graus Celsius é de {:.2f}°C, em Fahrenheit é {:.2f}°F, em Kelvin é {:.2f}°K'.format(temp, temp * 1.8 + 32, temp + 273.15))
