@@ -1,1 +1,1 @@
-Nesse repositório está os 115 exercicios de Python que resolvi durante o curso de Python do CursoEmVideo.
+Repositório destinado para exercicios de lógica em algumas linguagens de programação
